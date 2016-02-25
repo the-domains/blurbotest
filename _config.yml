@@ -2,6 +2,7 @@ name: blurbotest
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.8263430229853839
+title: This is a test. Reserving judgment.
 cta:
   domain: null
   bucket: null
