@@ -1,5 +1,8 @@
+name: blurbotest
+favicon: null
+layout_spectrum: 0.48995
+typography_spectrum: 0.6696535
 title: This is a test. Reserving judgment.
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8034647
-  brandStrength: 0.375
-  lightness: 0.1356033
   brandColors:
     - '#fddcc2'
     - '#d4ad8c'
     - '#272e07'
     - '#8a662f'
     - '#6a4d0c'
+  brandStrength: 0.375
+  lightness: 0.1356033
+  saturation: 0.8034647
   rhythmicContrast: 0.1559139
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: blurbotest
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6696535
-layout_spectrum: 0.9205496
+purpose: []
