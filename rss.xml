@@ -4,8 +4,15 @@
         <description><![CDATA[This is a test. Reserving judgment.]]></description>
         <link>https://thegrid.ai/blurbotest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 17:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 17:31:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blurbotest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On the San Bernardino Suspect's Apple ID Password Reset]]></title>
+            <description><![CDATA[<article><h1>On the San Bernardino Suspect's Apple ID Password Reset</h1><p>The latest news in the Apple-FBI legal fight has resulted in much confusion. John Paczkowski, reporting for BuzzFeed: The FBI has claimed that the password was changed by someone at the San Bernardino Health Department.</p></article>]]></description>
+            <link>http://daringfireball.net/2016/02/san_bernardino_password_reset</link>
+            <guid isPermaLink="false">4d22ae0b-4575-448f-b191-4a0b4314d56b</guid>
+            <pubDate>Thu, 25 Feb 2016 17:30:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://www.bbc.com/news/magazine-35560458</p>]]></description>
