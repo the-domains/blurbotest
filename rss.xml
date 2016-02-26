@@ -4,8 +4,15 @@
         <description><![CDATA[This is a test. Reserving judgment.]]></description>
         <link>https://thegrid.ai/blurbotest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 19:53:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 21:01:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blurbotest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photo test]]></title>
+            <description><![CDATA[<article><h1>Photo test</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6712c1a240e69fcf522cef7a12ba73f6d787da18.png"></article>]]></description>
+            <link>urn:uuid:d703f200-0932-49f4-b99d-4d28c42d2032</link>
+            <guid isPermaLink="false">aa1195e8-4317-408f-bd86-19764d66ece3</guid>
+            <pubDate>Thu, 25 Feb 2016 21:01:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Insane food gone even more bonkers]]></title>
             <description><![CDATA[<article><h1>Insane food gone even more bonkers</h1><p>http://www.mouth.com/collections/the-indie-oscars</p></article>]]></description>
