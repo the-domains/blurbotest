@@ -4,8 +4,15 @@
         <description><![CDATA[This is a test. Reserving judgment.]]></description>
         <link>https://thegrid.ai/blurbotest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 21:01:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 23:54:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blurbotest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Secret Stash]]></title>
+            <description><![CDATA[<h1>Secret Stash</h1>]]></description>
+            <link>https://thegrid.ai/blurbotest/secret-stash/index.html</link>
+            <guid isPermaLink="false">370c3d92-9374-4e72-9ec8-afd8e444f4f8</guid>
+            <pubDate>Wed, 02 Mar 2016 23:53:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Photo test]]></title>
             <description><![CDATA[<article><h1>Photo test</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6712c1a240e69fcf522cef7a12ba73f6d787da18.png"></article>]]></description>
