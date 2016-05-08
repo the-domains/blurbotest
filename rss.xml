@@ -4,8 +4,15 @@
         <description><![CDATA[This is a test. Reserving judgment.]]></description>
         <link>https://thegrid.ai/blurbotest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 14:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 01:03:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blurbotest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://blurbomat.com/detroit-iron-corvette/</p>]]></description>
+            <link>https://thegrid.ai/blurbotest/httpblurbomatcomdetroit-iron-corvette/index.html</link>
+            <guid isPermaLink="false">e784a676-4f15-4509-8bde-44c05d679475</guid>
+            <pubDate>Sun, 08 May 2016 01:03:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Workman's Waste of Time]]></title>
             <description><![CDATA[<article><h1>Workman's Waste of Time</h1><p>Pickup: Portland International Airport As I pull up to the curb, the app sends me a text message saying I should be looking for "a tall Asian man in a Zoo York sweatshirt." I don't usually get messages like this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8891fbaf04875870e5cb7397b148a67f2100700.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[John Legend calls out Trump as a racist]]></title>
-            <description><![CDATA[<article><h1>John Legend calls out Trump as a racist</h1><p>http://www.cnn.com/2016/03/12/entertainment/john-legend-donald-trump-racist-feat/index.html</p></article>]]></description>
+            <description><![CDATA[<p>http://www.cnn.com/2016/03/12/entertainment/john-legend-donald-trump-racist-feat/index.html</p>]]></description>
             <link>https://thegrid.ai/blurbotest/john-legend-calls-out-trump-as-a-racist/index.html</link>
             <guid isPermaLink="false">4afe6331-3ee8-42ec-b32d-c11dbe3f543b</guid>
             <pubDate>Mon, 14 Mar 2016 18:26:56 GMT</pubDate>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Secret Stash]]></title>
-            <description><![CDATA[<article><h1>Secret Stash</h1><p>http://mobile.nytimes.com/2016/03/06/arts/music/bob-dylans-secret-archive.html</p></article>]]></description>
+            <description><![CDATA[<p>http://mobile.nytimes.com/2016/03/06/arts/music/bob-dylans-secret-archive.html</p>]]></description>
             <link>https://thegrid.ai/blurbotest/secret-stash/index.html</link>
             <guid isPermaLink="false">370c3d92-9374-4e72-9ec8-afd8e444f4f8</guid>
             <pubDate>Wed, 02 Mar 2016 23:53:55 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://daringfireball.net/2016/02/san_bernardino_password_reset</link>
             <guid isPermaLink="false">4d22ae0b-4575-448f-b191-4a0b4314d56b</guid>
             <pubDate>Thu, 25 Feb 2016 17:30:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://www.bbc.com/news/magazine-35560458</p>]]></description>
-            <link>https://thegrid.ai/blurbotest/81c7bc25-f9c8-40cc-a247-aeb86e7cc087/index.html</link>
-            <guid isPermaLink="false">81c7bc25-f9c8-40cc-a247-aeb86e7cc087</guid>
-            <pubDate>Thu, 25 Feb 2016 17:05:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
