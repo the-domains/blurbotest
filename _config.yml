@@ -14,7 +14,7 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.8046594
-  brandStrength: 1
+  brandStrength: 0.03763437
   lightness: 0.5131421
   brandColors:
     - '#080609'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: blurbotest
+favicon: null
 opengraph:
   image: null
   type: null
