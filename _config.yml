@@ -13,9 +13,9 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.8046594
+  saturation: 1
   brandStrength: 0.03763437
-  lightness: 0.5131421
+  lightness: 0.4868578
   brandColors:
     - '#080609'
     - '#f17400'
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: blurbotest
 favicon: null
+name: blurbotest
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.6648745
+typography_spectrum: 0.6362007
 layout_spectrum: 1
