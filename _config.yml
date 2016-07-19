@@ -1,5 +1,8 @@
+name: blurbotest
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.6362007
 title: What a staggering disappointment.
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.03763437
-  lightness: 0.4868578
   brandColors:
     - '#080609'
     - '#f17400'
     - '#6c3c30'
     - '#faf7ef'
     - '#5b97dd'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: blurbotest
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6362007
-layout_spectrum: 1
+purpose: []
