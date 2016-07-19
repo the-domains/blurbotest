@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[This is a test. Reserving judgment.]]></title>
-        <description><![CDATA[This is a test. Reserving judgment.]]></description>
+        <title><![CDATA[What a staggering disappointment.]]></title>
+        <description><![CDATA[What a staggering disappointment.]]></description>
         <link>https://thegrid.ai/blurbotest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 01:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 18:36:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blurbotest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Instagram May Change Your Feed, Personalizing It With an Algorithm]]></title>
+            <description><![CDATA[<article><h1>Instagram May Change Your Feed, Personalizing It With an Algorithm</h1><p>For years, we have been trained to view web postings from our friends in a certain order. Refresh the top of your various "feeds" - the running column of content on some versions of Facebook, Twitter and Instagram - and you will see the latest news at the top.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/250a335e10c007a25360484e8d837abf36d31aab.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/03/16/technology/instagram-feed.html?_r=0</link>
+            <guid isPermaLink="false">ab492fdf-a7e8-4d42-9fc1-42b3b257b940</guid>
+            <pubDate>Tue, 19 Jul 2016 18:36:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://blurbomat.com/detroit-iron-corvette/</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.com/news/magazine-35560458</link>
             <guid isPermaLink="false">0d5a74be-258e-4ba0-99c7-a39c2edeb65f</guid>
             <pubDate>Thu, 25 Feb 2016 17:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On the San Bernardino Suspect's Apple ID Password Reset]]></title>
-            <description><![CDATA[<article><h1>On the San Bernardino Suspect's Apple ID Password Reset</h1><p>The latest news in the Apple-FBI legal fight has resulted in much confusion. John Paczkowski, reporting for BuzzFeed: The FBI has claimed that the password was changed by someone at the San Bernardino Health Department.</p></article>]]></description>
-            <link>http://daringfireball.net/2016/02/san_bernardino_password_reset</link>
-            <guid isPermaLink="false">4d22ae0b-4575-448f-b191-4a0b4314d56b</guid>
-            <pubDate>Thu, 25 Feb 2016 17:30:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
