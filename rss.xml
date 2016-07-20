@@ -4,8 +4,15 @@
         <description><![CDATA[What a staggering disappointment.]]></description>
         <link>https://thegrid.ai/blurbotest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 19:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 03:03:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blurbotest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/285f4234-a477-463a-986e-1076018951ec.jpg">]]></description>
+            <link>https://thegrid.ai/blurbotest/cf0e6c05-ac4b-4025-b849-47c69f7024cf/index.html</link>
+            <guid isPermaLink="false">cf0e6c05-ac4b-4025-b849-47c69f7024cf</guid>
+            <pubDate>Wed, 20 Jul 2016 03:03:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://coolmomtech.com/2016/07/5-waterproof-cell-phone-cases-iphone-android/</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/blurbotest/insane-food-gone-even-more-bonkers/index.html</link>
             <guid isPermaLink="false">2b730c4b-3c28-4bcc-8b91-58eb9e033dc6</guid>
             <pubDate>Thu, 25 Feb 2016 19:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taibbi on Trump]]></title>
-            <description><![CDATA[<article><h1>Taibbi on Trump</h1><p>The first thing you notice at Donald Trump's rallies is the confidence. Amateur psychologists have wishfully diagnosed him from afar as insecure, but in person the notion seems absurd. Donald Trump, insecure? We should all have such problems. At the Verizon Giganto-Center in Manchester the night before the New Hampshire primary, Trump bounds onstage to raucous applause and the booming riffs of the Lennon-McCartney anthem "Revolution."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08feffd03e03aaf75d2c031bd9f202267ebb0235.jpg"></article>]]></description>
-            <link>http://www.rollingstone.com/politics/news/how-america-made-donald-trump-unstoppable-20160224?page=13</link>
-            <guid isPermaLink="false">5a63b1ce-7592-40b5-9fe7-38487c9f3ca5</guid>
-            <pubDate>Thu, 25 Feb 2016 17:31:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
