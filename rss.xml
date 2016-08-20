@@ -4,8 +4,15 @@
         <description><![CDATA[What a staggering disappointment.]]></description>
         <link>https://thegrid.ai/blurbotest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 03:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 02:58:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blurbotest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good looking car]]></title>
+            <description><![CDATA[<article><h1>Good looking car</h1><p>This is the Lamborghini Centenario Roadster. It's more than $2.2 million and only 20 will be made. And they've all been sold already. Nevertheless, Lamborghini unveiled this automotive masterpiece this week at Pebble Beach, following the debut of the coupe version earlier this year.</p><img src="https://cdn1.vox-cdn.com/thumbor/wML7ovr4IS4eJE0lIUVsa3sSg20=/389x0:6688x3543/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/50458741/446158.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/19/12564000/lamborghini-centenario-roadster-announced-pebble-beach-2016</link>
+            <guid isPermaLink="false">b7c3ef5c-25a9-410c-84d8-a1e791ff8bed</guid>
+            <pubDate>Sat, 20 Aug 2016 02:57:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/285f4234-a477-463a-986e-1076018951ec.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>urn:uuid:d703f200-0932-49f4-b99d-4d28c42d2032</link>
             <guid isPermaLink="false">aa1195e8-4317-408f-bd86-19764d66ece3</guid>
             <pubDate>Thu, 25 Feb 2016 21:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Insane food gone even more bonkers]]></title>
-            <description><![CDATA[<article><h1>Insane food gone even more bonkers</h1><p>http://www.mouth.com/collections/the-indie-oscars</p></article>]]></description>
-            <link>https://thegrid.ai/blurbotest/insane-food-gone-even-more-bonkers/index.html</link>
-            <guid isPermaLink="false">2b730c4b-3c28-4bcc-8b91-58eb9e033dc6</guid>
-            <pubDate>Thu, 25 Feb 2016 19:52:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
