@@ -6,36 +6,36 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 0
-  lightness: 0.9265233
+  rhythmicContrast: 1
   brandColors:
     - '#ffffff'
     - '#7466d3'
     - '#6a90c8'
     - '#44bfc9'
     - '#9bb5da'
-  rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
+  lightness: 0.9265233
 analytics:
   twitter: null
   google: null
   facebook: null
-name: blurbotest
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: blurbotest
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.8237754
-layout_spectrum: 0
+layout_spectrum: 1
