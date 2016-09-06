@@ -4,8 +4,15 @@
         <description><![CDATA[What a staggering disappointment.]]></description>
         <link>https://thegrid.ai/blurbotest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 03:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 02:26:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blurbotest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[127: Navigational & Marital Aids]]></title>
+            <description><![CDATA[<article><h1>127: Navigational & Marital Aids</h1><p>This week, it's dads and directions. Jon uses Apple Maps, Google Maps and Waze, just to be on the safe side. Lex's family paid another visit to Diggerland. Lex has some praise for the Make-A-Wish organization. Taking the Tappan Zee Bridge is almost always a good idea. Almost always.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3794903133449e353ba84688100b1f6f/noop.jpg?input=http%3A%2F%2Fblurbomat.com%2Fwordpress%2Fwp-content%2Fuploads%2F2016%2F08%2Fttca-soundcloud-logo.jpg"></article>]]></description>
+            <link>http://blurbomat.com/127-navigational-marital-aids/</link>
+            <guid isPermaLink="false">97370161-bfa8-4999-b723-90d3459bd9ca</guid>
+            <pubDate>Sat, 03 Sep 2016 02:26:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This interface is not quite at Medium's level.]]></title>
             <description><![CDATA[<article><h1>This interface is not quite at Medium's level.</h1><p>It's not horrible, but it's not as solid as Medium.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/blurbotest/john-legend-calls-out-trump-as-a-racist/index.html</link>
             <guid isPermaLink="false">4afe6331-3ee8-42ec-b32d-c11dbe3f543b</guid>
             <pubDate>Mon, 14 Mar 2016 18:26:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://www.buzzfeed.com/coralewis/companies-are-eliminating-their-gender-pay-gaps</p>]]></description>
-            <link>https://thegrid.ai/blurbotest/f698cec9-c7f8-4c5e-8709-942ff1f2de37/index.html</link>
-            <guid isPermaLink="false">f698cec9-c7f8-4c5e-8709-942ff1f2de37</guid>
-            <pubDate>Mon, 14 Mar 2016 18:08:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
